@@ -9,8 +9,7 @@ Astropods is a production-grade control plane for AI agents. It grew out of buil
 | [`agents`](https://github.com/astropods/agents) | A catalog of ready to use agents|
 | [`adapters`](https://github.com/astropods/adapters) | Agent adapters for connecting to internal systems and external APIs |
 | [`messaging`](https://github.com/astropods/messaging) | Production-ready Go messaging service for agent-to-platform communication |
-| [`playground`](https://github.com/astropods/playground) | Standalone web chat interface for interacting with agents |
-| [`ast-cli`](https://github.com/astropods/ast-cli) | The future home for the CLI |
+| [`astro-cli`](https://github.com/astropods/astro-cli) | Astro's CLI tool for building, deploying, and monitoring agents |
 
 ## What Astropods do
 
